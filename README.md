@@ -1,8 +1,6 @@
 
 # Basic Web App Created by using ASP.NET Core web app using the .NET CLI.
 
-A brief description of what this project does and who it's for
-
 
 ## Deployment
 
